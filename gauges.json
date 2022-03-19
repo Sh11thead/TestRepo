@@ -1,0 +1,28 @@
+[{
+	"lpTokenAddress": "0x6D3f250273D86593d47Cb7aB9302E0352047E3d8",
+	"subTokenAddress": "0x48f7D56c057F20668cdbaD0a9Cd6092B3dc83684",
+	"subTokenSymbol": "WBNB",
+	"gaugeAddress": "0xb807499AE715c1858Bf13E2bA979af4bA88d9E65",
+	"gaugeTotalSupply": "9000",
+	"lpPrice": "200000000000000000",
+	"gaugeAPR": "28968253968253960560000000000000000000",
+	"bribeAddress": "0xB61E161e388F1c6d98C8fa25Cb3D9d53AE1bAF6F",
+	"weights": "369136355311355306268",
+	"bribes": [{
+		"rewardAddress": "0x06009BAcB529087334c961169Ad70154e7120f0a",
+		"symbol": "LAW",
+		"decimals": "18",
+		"tokenLeft": "0"
+	}]
+}, {
+	"lpTokenAddress": "0xE58Fb29285662F3089b0D957C71F7287b6DABB8e",
+	"subTokenAddress": "0x3b6c06be8cbbdC379BC6D3e5D458D9232253871e",
+	"subTokenSymbol": "AVSTAR",
+	"gaugeAddress": "0x8D3191A36631F3dFC2c1Ecf9DdefE7A74C627850",
+	"gaugeTotalSupply": "0",
+	"lpPrice": "2000000000000000000",
+	"gaugeAPR": "0",
+	"bribeAddress": "0x2beEB34076F3b709BEB7c30EA18181013cF69Bf8",
+	"weights": "731593406593405422",
+	"bribes": []
+}]
